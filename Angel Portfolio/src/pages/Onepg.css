@@ -67,12 +67,90 @@ object-fit: cover;
 .buttons{
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 20px;
-    margin-top: 300px;
+    margin-top: 20%;
+    position: relative;
+    z-index: 20;
     
 }
-.University_projects{
+.sphere{
+    width:200px;
+    height: 200px;
+    border-radius: 50%;
+   background-color: #ffa9cb;
+    border: 2px solid #f9c802;
+    color:rgb(255, 255, 255);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 15px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    
+}  
+.sphere:hover{
+    background-color: #fbebd3;
+    border: 2px solid #ff0267;
+    color: #000000;
+    transform: scale(1.1);
+   
+} 
+.label{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    margin-top: 15%;
+    margin-left:25%;
+  
+}
+.line{
+    width: 80%;
+    height: 2px;
+   background:linear-gradient(to right,
+   transparent,
+   #fd0076,
+   #ffffff,
+   #0080ff,
+   transparent);
+    box-shadow: 4px 15px 25px #e80707;
+}
+.label_content{
+    position: relative;
+    padding: 20px 0;
+    width:50%;
+    
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+}
+.Sparkle{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 50%;
+    height: 50%;
+    background-image: linear-gradient(45deg,white 2px,transparent 1px),
+    linear-gradient(-45deg,white 2px,transparent 1px);
+    background-size: 40px 40px;
+    background-position: 0 0, 25px 20px;
+    /*background: conic-gradient(from 90deg at 2px 2px,transparent 90deg,white 0);*/
+    opacity: 0.8;
+}
+.title1{
+    color: #ffffff;
     font-size: 30px;
-    width: 50px;
-    border-radius: 100px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin: 0;
+    z-index: 1;
+    text-shadow: 0 0 5px #ff0267 0px 0px 20px, 0 0 10px #ffc802;
 }
