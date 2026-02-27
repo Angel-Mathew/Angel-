@@ -119,7 +119,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
         <div className="story-container">
            <img src="public/assets/coverpagebg/valiantgirl.png" alt="Story" className='coverpage'/>
             <div className="story-content-overlay">
-              <h3 className="story-title">The valiant girl</h3>
+              <h3 className="story-title2">The valiant girl</h3>
               <a href="public/assets/Personalwork/Stories/story_ valiant girl.pdf"
           target="_blank" rel="noopener noreferrer" className='pdf-link'>
             <div className='pdf-box'>
@@ -132,7 +132,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
           <div className="story-container">
             <img src="public/assets/coverpagebg/poppy.png" alt="Story" className='coverpage'/>
             <div className="story-content-overlay">
-              <h3 className="story-title">Poppy</h3>
+              <h3 className="story-title3">Poppy</h3>
               <a href="public/assets/Personalwork/Stories/Story_ Poppy.pdf"
           target="_blank" rel="noopener noreferrer" className='pdf-link'>
             <div className='pdf-box'>
@@ -145,7 +145,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
             <div className="story-container">
             <img src="public/assets/coverpagebg/gp.png" alt="Story" className='coverpage'/>
             <div className="story-content-overlay">
-              <h3 className="story-title"> Golden Pheasant</h3>
+              <h3 className="story-title2"> Golden Pheasant</h3>
               <a href="public/assets/Personalwork/Stories/Story_golden pheasant.pdf"
           target="_blank" rel="noopener noreferrer" className='pdf-link'>
             <div className='pdf-box'>
@@ -161,11 +161,12 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
       <div>
         <h2 className='subtitle'>Photography</h2>
         <div className='imgcard'>
-          <img src="public/assets/Personalwork/Media/Photographs/20240130_083544_mfnr.jpg" alt="Photography"/>
-          <img src="public/assets/Personalwork/Media/Photographs/20240131_151023_mfnr.jpg" alt="Photography"  />
+          <img src="public/assets/Personalwork/Media/Photographs/IMG20250724164554_01.jpg" alt="Photography" />
           <img src="public/assets/Personalwork/Media/Photographs/IMG_20250805_190850_570.webp" alt="Photography"  />
           <img src="public/assets/Personalwork/Media/Photographs/IMG_20250827_111109_339.webp" alt="Photography" />
-          <img src="public/assets/Personalwork/Media/Photographs/IMG20250724164554_01.jpg" alt="Photography" />
+          <img src="public/assets/Personalwork/Media/Photographs/20240130_083544_mfnr.jpg" alt="Photography"/>
+          <img src="public/assets/Personalwork/Media/Photographs/20240131_151023_mfnr.jpg" alt="Photography"  />
+          
           
           </div>
           <h2 className='subtitle'>Videos</h2>
