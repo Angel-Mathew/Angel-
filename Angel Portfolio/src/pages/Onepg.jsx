@@ -65,6 +65,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
         <br/>
         <div className='card'>
         <video controls className="project-video"><source src= "public/assets/Universityprojects/Angel Sara Mathew walkthrough video.mp4"/></video>
+        <a href="https://wild-soar.vercel.app/" target="_blank" rel="noopener noreferrer" className='web-site'>Visit Website</a>
         </div>
           
         <h2 className='subtitle'> For Yarah Consultants </h2>
@@ -123,7 +124,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
               <a href="public/assets/Personalwork/Stories/story_ valiant girl.pdf"
           target="_blank" rel="noopener noreferrer" className='pdf-link'>
             <div className='pdf-box'>
-              <span>Read Story</span>
+              <span> Read Story</span>
             </div>
           </a>
             </div>
@@ -194,7 +195,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
       </section>
 <section className="certificates">
         <h1 className='title4'> Certificates</h1>
-        <div id="certificates-section" className='imgcard'>
+        <div id="certificates-section" className='certcard'>
          <img src="public/assets/Certificates/Certificate.jpg" alt="Certificate"/>
          <img src="public/assets/Certificates/Introduction to HTML .png" alt="Certificate"/>
          <img src="public/assets/Certificates/Introduction to JavaScript.png" alt="Certificate"/>

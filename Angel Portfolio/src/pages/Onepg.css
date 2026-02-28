@@ -21,8 +21,8 @@ border-bottom-right-radius: 30px;
 object-fit: cover;
     margin-top: 10%;
     margin-left: 25%;
-    border: 2px solid #f9c802;
-    box-shadow: #ffffff 0px 0px 10px, #ff0267 0px 0px 20px;
+    border: 2px solid #ffffff;
+    box-shadow: #ffffff 0px 0px 10px, #ff0263 0px 0px 20px;
 }
 .text-container{
     max-width: 500px;
@@ -112,6 +112,18 @@ object-fit: cover;
    margin-left:30%;
     border-radius: 10px;
 }
+.web-site{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    background-color: #f50f67;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding: 5px 10px;
+  
+}
 .subtitle{
     margin-left: 90px;
     margin-top: 20px;
@@ -156,6 +168,24 @@ object-fit: cover;
     margin-bottom: 30px;
     box-shadow: 0 0 10px rgb(230, 6, 140);
 }
+.certcard{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    border: none;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.certcard img{
+    width: 500px;
+    height: 300px;
+    border: 2px solid #ffffff;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    box-shadow: 0 0 10px rgb(230, 6, 140);
+}
 .title2{
     margin-top: 15%;
     color: #f80965;;
@@ -178,7 +208,15 @@ object-fit: cover;
     text-align: center;
     z-index: 10;
 }
-
+.title4{margin-top: 15%;
+    color: #f80965;
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: center;
+    z-index: 10;}
 .craftcard{
     display:flex;
     flex-direction: column;
@@ -249,10 +287,11 @@ margin:40px auto;
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
     margin-left: 150px;
+    margin-top: -20px;
     text-shadow: 2px 2px 4px #f6096b;
 }
  .pdf-link{
-   
+  box-shadow: inset 0 0 10px rgba(255, 255, 255, 0.874);
     text-decoration: none;
     background-color: #f50f67;
     color: #ffffff;
@@ -265,5 +304,4 @@ margin:40px auto;
     margin-top: 100px;
     margin-left: 5px;
     
-  
 }
