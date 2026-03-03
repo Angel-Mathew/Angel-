@@ -1,0 +1,44 @@
+.navbar {
+  background-color: #a20659;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+    
+  top: 0;
+  left: 0;
+  width: 50%;  
+  height: 60px; 
+  z-index: 999;
+border-bottom-right-radius: 20px;
+  padding: 0 20px; 
+}
+
+.navbar-brand .logo {
+    height: 50px; 
+    margin-right: 15px;
+}
+
+
+.navbar-links {
+    display: flex;
+    list-style: none;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-links a {
+    color: white;
+    text-decoration: none;
+    font-size: 14px; 
+    font-weight: bold;
+    font-style: italic;
+   margin-left: 50px;
+}
+
+.name {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+}

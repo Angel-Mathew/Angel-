@@ -110,7 +110,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
       <section className="personalworks">
         <h1 className='title3'> Personal Works</h1>
          <h2 className='subtitle'>UI design</h2>
-          <div className='uicard2'>
+          <div className='uicard2' id="personalworks-section" >
           <img src="public/assets/Personalwork/UI design/app.png" alt="UI Design"/>
          <img src="public/assets/Personalwork/UI design/wildlife.png" alt="UI Design"/>
           </div>
@@ -121,7 +121,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
           </div>
          
         <h2 className='subtitle'>Stories</h2>
-        <div id="personalworks-section">
+        <div >
           <div className="story-container">
             <img src="public/assets/coverpagebg/mlp.png" alt="Story" className='coverpage'/>
             <div className="story-content-overlay">
@@ -138,7 +138,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
         <div className="story-container">
            <img src="public/assets/coverpagebg/valiantgirl.png" alt="Story" className='coverpage'/>
             <div className="story-content-overlay">
-              <h3 className="story-title2">The valiant girl</h3>
+              <h3 className="story-title2">Valiant girl</h3>
               <a href="public/assets/Personalwork/Stories/story_ valiant girl.pdf"
           target="_blank" rel="noopener noreferrer" title="Click to read the story" className='pdf-link'>
             <div className='pdf-box'>

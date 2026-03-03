@@ -4,8 +4,9 @@ import './Footer.css';
 
 const Footer = () => { 
     return (
-     
+    
     <footer className='footer-container'>
+        
         <h3 className='footer-title'> Contact Me</h3>
         <nav className='footer-nav'>
             <a href="https://www.linkedin.com/in/angel-sara-mathew-518321336/" target="_blank" rel="noopener noreferrer" title="Click to visit My LinkedIn profile">LinkedIn</a> |
@@ -16,6 +17,7 @@ const Footer = () => {
         </nav>
       
     </footer>
+    
           
     );
 };

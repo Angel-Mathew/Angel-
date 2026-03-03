@@ -9,8 +9,10 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-
+  border-top-right-radius: 20px;
   
+ 
+
 
 }
 .footer-title{
