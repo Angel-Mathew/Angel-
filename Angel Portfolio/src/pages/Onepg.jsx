@@ -20,10 +20,10 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
    
      
        <div className="buttons">
-      <button className="sphere" onClick={() => document.getElementById('projects-section').scrollIntoView({ behavior:'smooth'})}>University Projects</button>
-      <button className="sphere" onClick={() => document.getElementById('events-section').scrollIntoView({ behavior:'smooth'})}>University Events</button>
-      <button className="sphere" onClick={() => document.getElementById('personalworks-section').scrollIntoView({ behavior:'smooth'})}>Personal Works</button>
-      <button className="sphere" onClick={() => document.getElementById('certificates-section').scrollIntoView({ behavior:'smooth'})}>Certificates</button>
+      <button className="sphere" onClick={() => document.getElementById('projects-section').scrollIntoView({ behavior:'smooth'})} title="Click me">University Projects</button>
+      <button className="sphere" onClick={() => document.getElementById('events-section').scrollIntoView({ behavior:'smooth'})} title="Click me">University Events</button>
+      <button className="sphere" onClick={() => document.getElementById('personalworks-section').scrollIntoView({ behavior:'smooth'})} title="Click me">Personal Works</button>
+      <button className="sphere" onClick={() => document.getElementById('certificates-section').scrollIntoView({ behavior:'smooth'})} title="Click me">Certificates</button>
     </div>
 
   

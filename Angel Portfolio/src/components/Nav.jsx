@@ -6,12 +6,12 @@ const Nav = () => {
   return (
     <nav className="navbar">
       <div className="navbar-brand">
-        <Link to="/">
+        
         {/*---------------- Logo -----------*/ }
           <div className="logo-box">
         <img src="public/assets/Personalwork/A.png" alt="A" className="logo" />
          </div>
-        </Link>
+        
       </div>
        {/*---------------- Nav links -----------*/ }
       <ul className="navbar-links">

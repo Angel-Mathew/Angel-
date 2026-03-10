@@ -10,10 +10,10 @@
   align-items: center;
   justify-content: center;
   border-top-right-radius: 20px;
-  
- 
-
-
+}
+.logoa{
+  width: 50px;
+  margin-left: 5px;
 }
 .footer-title{
   color:white;
@@ -38,3 +38,34 @@ transition: all 0.3s ease;
   color: rgb(0, 0, 0);
   font-weight: bold;
 }
+/* media quires*/
+ /* small mobile*/
+ @media (min-width: 320px) and (max-width: 480px){
+.footer-container{
+ background-color: #a20659;
+  display: flex;
+  top: 0;
+  left: 0;
+  width: 200%;  
+  height: 150px; 
+ align-items: center;
+border-bottom-right-radius: 20px;
+  padding: 0 20px;
+}
+
+ }
+ /* medium mobile*/
+ @media (min-width: 375px) and (max-width: 480px){
+.footer-container{
+ background-color: #a20659;
+  display: flex;
+  top: 0;
+  left: 0;
+  width: 200%;  
+  height: 150px; 
+ align-items: center;
+border-bottom-right-radius: 20px;
+  padding: 0 20px;
+}
+
+ }
