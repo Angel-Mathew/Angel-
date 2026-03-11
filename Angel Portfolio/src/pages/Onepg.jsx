@@ -222,6 +222,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
          <img src="public/assets/Certificates/python Tkinter .png" alt="Certificate"/>
          <img src="public/assets/Certificates/Screenshot 2026-01-15 190428.png" alt="Certificate"/>
          <img src="public/assets/Certificates/Storytelling for leaders.png" alt="Certificate"/>
+         <img src="public/assets/Certificates/Figma for UX Design.png" alt="Certificate"/>
          </div>
 </section>
 
