@@ -203,8 +203,8 @@ border-bottom-right-radius: 20px;
 }}
 /* Laptop*/
   @media (min-width:1024px) and (max-width:1439px){
-    .navbar {
-   background-image: url(./footerbg.png);
+  .navbar {
+  background-image: url(./footerbg.png);
   background-size: 100% 100%;
   background-repeat: no-repeat;
   background-position: center;
@@ -212,7 +212,7 @@ border-bottom-right-radius: 20px;
   display: flex;
   top: 0;
   left: 0;
-  width: 100%;  
+  width: 105%;  
   height: 60px; 
  align-items: center;
 border-bottom-right-radius: 20px;
