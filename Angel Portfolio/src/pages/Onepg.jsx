@@ -191,15 +191,15 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
           <h2 className='subtitle'>Videos</h2>
           <div className='card'>
             <h3 className='subtitle2'> Timelapse videos </h3>
-          <video controls className="project-video"><source src= "/assets/personalwork/media/vidoes/city.mp4"/></video>
+          <video controls className="project-video"><source src= "/assets/personalwork/media/videos/city.mp4"/></video>
           <br/>
-          <video controls className="project-video"><source src= "/assets/personalwork/media/vidoes/VID-20240120-WA0025.mp4"/></video>
+          <video controls className="project-video"><source src= "/assets/personalwork/media/videos/VID-20240120-WA0025.mp4"/></video>
             <h3 className='subtitle2'> Ocean </h3>
-          <video controls className="project-video"><source src= "/assets/personalwork/media/vidoes/v.mp4"/></video>
+          <video controls className="project-video"><source src= "/assets/personalwork/media/videos/v.mp4"/></video>
             <h3 className='subtitle2'> Story videos </h3>
-          <video controls className="project-video"><source src= "/assets/personalwork/media/vidoes/The Life turn.mp4"/></video>
+          <video controls className="project-video"><source src= "/assets/personalwork/media/videos/The Life turn.mp4"/></video>
           <br/>
-          <video controls className="project-video"><source src= "/assets/personalwork/media/vidoes/Signal for Safety.mp4"/></video>
+          <video controls className="project-video"><source src= "/assets/personalwork/media/videos/Signal for Safety.mp4"/></video>
          </div>
 
       </div>
