@@ -39,25 +39,25 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
          <p className='note'>to add background music used clideo.com video tool</p>
         <div className='card'>
          
-         <video controls className="project-video"><source src="./assets/universityprojects/time lapse sunset.mp4"/></video>
+         <video controls className="project-video"><source src="/assets/universityprojects/time lapse sunset.mp4"/></video>
          
         </div>
          <h2 className='subtitle'>Figma project</h2>
         <div className='card'>
         
-         <video controls className="project-video"><source src= "./assets/universityprojects/my app evergreen roses.mp4"/></video>
+         <video controls className="project-video"><source src= "/assets/universityprojects/my app evergreen roses.mp4"/></video>
         </div>
           
 
           <h2 className='subtitle'>Bitsy game Finding Wifi</h2>
         <div className='card'>
         
-         <video controls className="project-video"><source src= "./assets/universityprojects/Bitsy game Finding Wifi.mp4"/></video>
+         <video controls className="project-video"><source src= "/assets/universityprojects/Bitsy game Finding Wifi.mp4"/></video>
         </div>
           
         <h2 className='subtitle'>Application</h2>
         <div className='card'>
-        <video controls className="project-video"><source src= "./assets/universityprojects/NaN calculator cocomix app.mp4"/></video>
+        <video controls className="project-video"><source src= "/assets/universityprojects/NaN calculator cocomix app.mp4"/></video>
         </div>
          <br/>
        <div className='card'>
@@ -205,10 +205,10 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
       </div>
       <h2 className='subtitle'>Crafts</h2>
       <div className='craftcard'>
-          <img src="./assets/personalwork/crafts/20230731_094939_mfnr.jpg" alt="Crafts"/>
-          <img src="./assets/personalwork/crafts/image.png" alt="Crafts" />
-          <img src="./assets/personalwork/crafts/IMG20251109193557.jpg" alt="Crafts" />
-          <img src="./assets/personalwork/crafts/IMG20251109194031.jpg" alt="Crafts" />
+          <img src="/assets/personalwork/crafts/20230731_094939_mfnr.jpg" alt="Crafts"/>
+          <img src="/assets/personalwork/crafts/image.png" alt="Crafts" />
+          <img src="/assets/personalwork/crafts/IMG20251109193557.jpg" alt="Crafts" />
+          <img src="/assets/personalwork/crafts/IMG20251109194031.jpg" alt="Crafts" />
           </div>
       </section>
 <section className="certificates">
