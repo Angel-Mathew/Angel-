@@ -103,7 +103,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
           </div>
            <h2 className='subtitle'>GDG </h2>
           <div className='imgcard'>
-          <img src="/assets/universityevents/gdg_event/GDG event.jpeg" alt="GDG Event"/>
+          <img src="/assets/universityevents/gdg_event/GDG event.jpeg"/>
           </div>
           </div>
       </section>
@@ -115,8 +115,8 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
          <img src="/assets/Personalwork/ui_design/wildlife.png" alt="UI Design"/>
           </div>
          <div className='uicard'>
-          <img src="/assets/Personalwork/ui_design/Alexa Tell a joke.png" alt="UI Design"  />
-          <img src="/assets/Personalwork/ui_design/evergreen_roses.png" alt="UI Design"  />
+          <img src="/assets/personalwork/ui_design/Alexa Tell a joke.png" alt="UI Design"  />
+          <img src="/assets/personalwork/ui_design/evergreen_roses.png" alt="UI Design"  />
           
           </div>
          
@@ -180,7 +180,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
       <div>
         <h2 className='subtitle'>Photography</h2>
         <div className='imgcard'>
-          <img src="/assets/personalwork/media/Photographs/IMG20250724164554_01.jpg" alt="Photography" />
+          <img src="/assets/personalwork/media/photographs/IMG20250724164554_01.jpg" alt="Photography" />
           <img src="/assets/personalwork/media/photographs/IMG_20250805_190850_570.webp" alt="Photography"  />
           <img src="/assets/personalwork/media/photographs/IMG_20250827_111109_339.webp" alt="Photography" />
           <img src="/assets/personalwork/media/photographs/20240130_083544_mfnr.jpg" alt="Photography"/>
