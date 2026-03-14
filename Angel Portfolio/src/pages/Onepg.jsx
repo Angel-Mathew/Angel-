@@ -126,7 +126,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
             <img src="/assets/coverpagebg/mlp.png" alt="Story" className='coverpage'/>
             <div className="story-content-overlay">
               <h3 className="story-title">Marvellous life of a parrot</h3>
-             <a href="/assets/personalwork/stories/Marvellous life of a parrot.pdf"
+             <a href="public\assets\personalwork\stories\storym.pdf"
           target="_blank" rel="noopener noreferrer" title="Click to read the story" className='pdf-link'>
             <div className='pdf-box'>
               <span>Read Story</span>
@@ -139,7 +139,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
            <img src="/assets/coverpagebg/valiantgirl.png" alt="Story" className='coverpage'/>
             <div className="story-content-overlay">
               <h3 className="story-title2">Valiant girl</h3>
-              <a href="/assets/personalwork/stories/story_ valiant girl.pdf"
+              <a href="/assets/personalwork/stories/storyv.pdf"
           target="_blank" rel="noopener noreferrer" title="Click to read the story" className='pdf-link'>
             <div className='pdf-box'>
               <span> Read Story</span>
@@ -152,7 +152,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
             <img src="/assets/coverpagebg/poppy.png" alt="Story" className='coverpage'/>
             <div className="story-content-overlay">
               <h3 className="story-title3">Poppy</h3>
-              <a href="/assets/personalwork/stories/Story_ Poppy.pdf"
+              <a href="/assets/personalwork/stories/storyp.pdf"
           target="_blank" rel="noopener noreferrer" title="Click to read the story" className='pdf-link'>
             <div className='pdf-box'>
               <span>Read Story</span>
@@ -165,7 +165,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
             <img src="/assets/coverpagebg/gp.png" alt="Story" className='coverpage'/>
             <div className="story-content-overlay">
               <h3 className="story-title2"> Golden Pheasant</h3>
-              <a href="/assets/personalwork/stories/Story_golden pheasant.pdf"
+              <a href="/assets/personalwork/stories/storyg.pdf"
           target="_blank" rel="noopener noreferrer" title="Click to read the story" className='pdf-link'>
             <div className='pdf-box'>
               <span>Read Story</span>
@@ -215,11 +215,11 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
         <h1 className='title4'> Certificates</h1>
         <div id="certificates-section" className='certcard'>
          <img src="/assets/certificates/Certificate.jpg" alt="Certificate"/>
-         <img src="/assets/certificates/Introduction to HTML .png" alt="Certificate"/>
+         <img src="public\assets\certificates\Introduction to HTML.png" alt="Certificate"/>
          <img src="/assets/certificates/Introduction to JavaScript.png" alt="Certificate"/>
          <img src="/assets/certificates/Introduction to python.png" alt="Certificate"/>
          <img src="/assets/certificates/Python Intermediate.png" alt="Certificate"/>
-         <img src="/assets/certificates/python Tkinter .png" alt="Certificate"/>
+         <img src="/assets/certificates/python Tkinter.png" alt="Certificate"/>
          <img src="/assets/certificates/Screenshot 2026-01-15 190428.png" alt="Certificate"/>
          <img src="/assets/certificates/Storytelling for leaders.png" alt="Certificate"/>
          <img src="/assets/certificates/Figma for UX Design.png" alt="Certificate"/>
