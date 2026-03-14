@@ -9,7 +9,7 @@ const Nav = () => {
         
         {/*---------------- Logo -----------*/ }
           <div className="logo-box">
-        <img src="public/assets/Personalwork/A.png" alt="A" className="logo" />
+        <img src="./A.png" alt="A" className="logo" />
          </div>
         
       </div>
