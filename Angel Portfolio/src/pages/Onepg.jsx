@@ -83,7 +83,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
          
       <h2 className='subtitle'>Data Visualization</h2>
         <div className='card'>
-        <video controls className="project-video"><source src= "/assets/Universityprojects/Angel Sara Mathew_Data Visualization.mp4"/></video>
+        <video controls className="project-video"><source src= "/assets/universityprojects/Angel Sara Mathew_Data Visualization.mp4"/></video>
         </div>
       </section>
       <section className="events">
@@ -97,7 +97,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
           </div>
            <h2 className='subtitle'>RAK Fine Art</h2>
           <div className='imgcard'>
-          <img src="/asset/universityevents/year1_rak fine arts/RAK Fine Arts Festival (2).png" alt="RAK Fine Art"/>
+          <img src="/assets/universityevents/year1_rak fine arts/RAK Fine Arts Festival (2).png" alt="RAK Fine Art"/>
           <img src="/assets/universityevents/year1_rak fine arts/RAK Fine Arts Festival (3).png" alt="RAK Fine Art"  />
           <img src="/assets/universityevents/year1_rak fine arts/RAK Fine Arts festival.png" alt="RAK Fine Art"  />
           </div>
@@ -112,7 +112,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
          <h2 className='subtitle'>UI design</h2>
           <div className='uicard2' id="personalworks-section" >
           <img src="/assets/personalwork/ui_design/app.png" alt="UI Design"/>
-         <img src="/assets/Personalwork/ui_design/wildlife.png" alt="UI Design"/>
+         <img src="/assets/personalwork/ui_design/wildlife.png" alt="UI Design"/>
           </div>
          <div className='uicard'>
           <img src="/assets/personalwork/ui_design/Alexa Tell a joke.png" alt="UI Design"  />
