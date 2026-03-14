@@ -92,7 +92,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
           <h2 className='subtitle'>Dubai Design week</h2>
           <div className='imgcard'>
           <img src="/assets/universityevents/year1_dubai-design-week/Year1_Dubai Design week (3).png" alt="Dubai Design Week"/>
-          <img src="assets/universityevents/year1_dubai-design-week/Year1_Dubai Design week (2).png" alt="Dubai Design Week"  />
+          <img src="/assets/universityevents/year1_dubai-design-week/Year1_Dubai Design week (2).png" alt="Dubai Design Week"  />
           <img src="/assets/universityevents/year1_dubai-design-week/Year1_Dubai Design week.png" alt="Dubai Design Week"  />
           </div>
            <h2 className='subtitle'>RAK Fine Art</h2>
