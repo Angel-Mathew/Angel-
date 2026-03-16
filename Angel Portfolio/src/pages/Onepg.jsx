@@ -149,7 +149,7 @@ Bsc Creative Computing graduate. Passionate about making videos and websites and
           </div>
           {/*---End of story 2---*/}
           <div className="story-container">
-            <img src="/assets/coverpagebg/poppy.png" alt="Story" className='coverpage'/>
+            <img src="/assets/coverpagebg/Poppy.png" alt="Story" className='coverpage'/>
             <div className="story-content-overlay">
               <h3 className="story-title3">Poppy</h3>
               <a href="/assets/personalwork/stories/storyp.pdf"
